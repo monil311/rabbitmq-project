@@ -17,12 +17,13 @@ This project is designed for **beginners** while introducing **advanced RabbitMQ
 ---
 
 ## 📂 Project Structure
-.
+```
 ├── producer.js
 ├── consumer.js
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
 
 
 ---
